@@ -3,8 +3,6 @@ Learn Python over a 10 day challenge!
 
 __Target Audience:__ Teen learners aged 12–18, beginners in programming
 
-__Format:__ Short-form instructional video (30–120 seconds), portrait orientation
-
 __Goal:__ Equip learners with Python basics while relating concepts to real-world and AI4Good applications
 
 ---
