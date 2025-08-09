@@ -8,5 +8,4 @@ def grade(score):
     else:
         return "Try again!"
 
-# example usage
 print("Score 82 =>", grade(82))
