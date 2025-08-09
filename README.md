@@ -1,5 +1,5 @@
 # 10-Day Python Fundamentals w/ Teens in AI
-Learn Python over a 10 day challenge!
+Welcome to the 10-Day Python Fundamentals Challenge with Teens in AI! Each day you'll learn a new coding concept with fun, bite-sized tasks linked to real-world AI4Good projects. Ready to code? Let’s go!
 
 __Target Audience:__ Teen learners aged 12–18, beginners in programming
 
